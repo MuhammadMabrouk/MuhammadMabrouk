@@ -51,16 +51,18 @@
   </tr>
 </table>
 
-<h3>Connect with me :computer:</h3>
-
 <hr>
 
-<p>
-<a href="https://fb.com/webrouk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="webrouk" height="30" width="40" /></a>
-<a href="https://twitter.com/mu_mabrouk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mu_mabrouk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-mabrouk/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-mabrouk/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/muhammad-mabrouk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-mabrouk" height="30" width="40" /></a>
-<a href="https://dribbble.com/mumabrouk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mumabrouk" height="30" width="40" /></a>
-<a href="https://www.behance.net/mu_mabrouk" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/behance-2.svg" alt="mu_mabrouk" height="30" width="40" /></a>
-<a href="https://codepen.io/muhammad_mabrouk" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" alt="muhammad_mabrouk" height="30" width="40" /></a>
-</p>
+<h3>Connect with me :computer:</h3>
+
+<table>
+  <tr>
+    <td><a href="https://fb.com/webrouk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="webrouk" height="30" width="40" /></a></td>
+    <td><a href="https://twitter.com/mu_mabrouk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mu_mabrouk" height="30" width="40" /></a></td>
+    <td><a href="https://linkedin.com/in/muhammad-mabrouk/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-mabrouk/" height="30" width="40" /></a></td>
+    <td><a href="https://stackoverflow.com/users/muhammad-mabrouk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-mabrouk" height="30" width="40" /></a></td>
+    <td><a href="https://dribbble.com/mumabrouk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mumabrouk" height="30" width="40" /></a></td>
+    <td><a href="https://www.behance.net/mu_mabrouk" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/behance-2.svg" alt="mu_mabrouk" height="30" width="40" /></a></td>
+    <td><a href="https://codepen.io/muhammad_mabrouk" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" alt="muhammad_mabrouk" height="30" width="40" /></a></td>
+  </tr>
+</table>
