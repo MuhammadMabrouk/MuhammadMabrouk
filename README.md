@@ -66,3 +66,9 @@
     <td><a href="https://codepen.io/muhammad_mabrouk" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" alt="muhammad_mabrouk" height="30" width="40" /></a></td>
   </tr>
 </table>
+
+<hr>
+
+<p><b>Thank you for your support!<b/><p/>
+
+<a href="https://www.buymeacoffee.com/MuhammadMabrouk"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=MuhammadMabrouk&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" /></a>
